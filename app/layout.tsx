@@ -23,7 +23,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const siteUrl = "https://www.ourbridalplan.co.uk";
+const siteUrl = "https://ourbridalplan-n28p.vercel.app";
 
 export const metadata: Metadata = {
   title: "Our Bridal Plan | Wedding Planning & Coordination UK",
